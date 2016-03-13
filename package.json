@@ -1,7 +1,7 @@
 {
-  "name": "mean-js",
+  "name": "mean.js",
   "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
-  "version": "0.5.0-beta",
+  "version": "1.0.0",
   "meanjs-version": "0.5.0-beta",
   "private": false,
   "author": "Julio Antúnez Tarín",
